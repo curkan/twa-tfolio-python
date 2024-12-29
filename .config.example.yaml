@@ -1,0 +1,10 @@
+bot:
+  token: "123413123:dskfaksjfhaslkdfjhaskf-PmniA"
+  forum_supergroup_id: -11111111111
+
+#### PostgreSQL-specific settings ####
+postgres:
+  # Connection string for your PostgreSQL Database
+  dsn: postgresql+psycopg://bot:password@support-postgres/support
+
+
